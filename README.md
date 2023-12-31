@@ -3,6 +3,6 @@
 BKWD05 - Bimbingan Karier Web Development
 
 ```bash
-Oriwarda Krista Alodia
-A11.2020.12606
+Ardhan Rivaldi Taufiqurrahman
+A11.2020.12609
 ```
